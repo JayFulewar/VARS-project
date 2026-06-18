@@ -1,6 +1,3 @@
-% VARS Optimization and Plotting Script
-% Based on the E-Waste Incinerator VARS Project Methodology
-
 clear; clc; close all;
 
 % 1. DEFINE TEMPERATURE RANGES (Converted from Celsius to Kelvin)
